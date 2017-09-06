@@ -1,10 +1,4 @@
 
----
-layout: page
-title: Portfolio
-permalink: /portfolio/
----
-
 Some information about you!
 
 ### More Information
