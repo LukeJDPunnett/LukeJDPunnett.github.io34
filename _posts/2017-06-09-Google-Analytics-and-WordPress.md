@@ -2,7 +2,6 @@
 layout: post
 title: Cryptography & Front End Tech
 ---
-# Cryptography & Front End Tech
 04th October 2017
 > Cryptography or cryptology (from Greek κρυπτός kryptós, "hidden, secret"; and γράφειν graphein, "writing", or -λογία -logia, "study", respectively) is the practice and study of techniques for secure communication in the presence of third parties called adversaries
 
