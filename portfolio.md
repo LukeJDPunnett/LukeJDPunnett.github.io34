@@ -3,11 +3,12 @@ Some information about you!
 
 ## Websites
 
-South East London School of Ju Jitsu: <selondonjujitsu.co.uk>
+[South East London School of Ju Jitsu](http://selondonjujitsu.co.uk)
 
 RF Industries: <rfindustries.co.uk> 
+[RF Industries](http://rfindustries.co.uk/) 
 
-Woodburner Essentials: <woodburneressentials.co.nz> 
+[Woodburner Essentials](http://woodburneressentials.co.nz/)
 
 ### More Information
 
