@@ -5,7 +5,6 @@ Some information about you!
 
 [South East London School of Ju Jitsu](http://selondonjujitsu.co.uk)
 
-RF Industries: <rfindustries.co.uk> 
 [RF Industries](http://rfindustries.co.uk/) 
 
 [Woodburner Essentials](http://woodburneressentials.co.nz/)
