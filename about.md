@@ -12,6 +12,14 @@ A place to include any other types of information that you'd like to include abo
 
 ## Technologies I Enjoy Using:
 
+### Front End: 
+- HTML 
+- CSS
+- JavaScript
+
+### CMS
+- WordPress
+
 ## Certifications:
 
 - Goole Mobile Sites Certification
