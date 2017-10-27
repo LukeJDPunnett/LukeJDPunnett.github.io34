@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: caesar.js project update #1 : First Steps
 ---
 
 # caesar.js project update #1 : First Steps
