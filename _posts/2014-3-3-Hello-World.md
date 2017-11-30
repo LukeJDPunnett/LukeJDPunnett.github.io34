@@ -1,6 +1,6 @@
 ---
 layout: post
-title: caesar.js project update #1 : First Steps
+title: caesar.js project update #1 First Steps
 ---
 # caesar.js project update #1 : First Steps
 27th October 2017
